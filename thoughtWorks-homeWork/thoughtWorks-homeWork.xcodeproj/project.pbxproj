@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		5B0E74031F63B4E200EA9DFA /* thoughtWorks-homeWork */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "thoughtWorks-homeWork"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B0E74061F63B4E200EA9DFA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5B0E74341F65945500EA9DFA /* BOOKING.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BOOKING.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				5B0E74061F63B4E200EA9DFA /* main.cpp */,
+				5B0E74341F65945500EA9DFA /* BOOKING.h */,
 			);
 			path = "thoughtWorks-homeWork";
 			sourceTree = "<group>";
